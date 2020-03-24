@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  },
+  "name": "twitterBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieldmonteiro/twitterBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/gabrieldmonteiro/twitterBot/issues"
+  },
+  "homepage": "https://github.com/gabrieldmonteiro/twitterBot#readme",
+  "description": ""
+}
